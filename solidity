@@ -1,0 +1,13 @@
+//incrate a solidity file : xxx.sol
+
+//if you lose this ,some compilers may have warnings
+//SPDX-License-Identifier:MIT
+//choose solidity version 
+//if use "^",it represents that all versions above this can be used
+//you can also use ">、>="，and so on
+pragma solidity ^0.8.7;
+
+//difine contract,like "class" in java
+contract SimpleStorage {
+  
+}
